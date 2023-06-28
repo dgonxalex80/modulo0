@@ -1,0 +1,29 @@
+name: " "
+output_dir: "docs"
+navbar:
+  title: " "
+  left:
+    - text: "PyE"
+      icon: fa-home
+      href: index.html
+    - text: "Sumatoria"
+      href: sumatoria.html  
+    - text: "Productoria"
+      href: productoria.html  
+    - text: "Conjuntos"
+      href: conjuntos.html  
+    - text: "Conteo"
+      href: conteo.html  
+    - text: "Funcion exp"
+      href: exponencial.html  
+    - text: "Función log"
+      href: logaritmica.html  
+    - text: "Integración"
+      href: integracion.html  
+    - text: "Derivación"
+      href: derivacion.html        
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css

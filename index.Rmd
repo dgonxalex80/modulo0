@@ -1,0 +1,30 @@
+---
+title: "**PROBABILIDAD Y ESTADÍSTICA**"
+subtitle: " "
+author: "dgonzalez"
+date: ""
+output:
+  html_document:
+    toc: no
+    toc_depth: 2
+    toc_float: yes
+    theme: flatly
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE,comment = NA)
+
+# colores
+c0= "#b0394a"
+c1= "#ad6395"
+c2= "#a391c4"
+c3= "#8acfe6"
+c4= "#646420"
+c5= "#db524f"
+
+```
+
+
+<br/>
+![](img/banner0.png)
