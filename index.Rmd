@@ -1,14 +1,8 @@
 ---
-title: "**PROBABILIDAD Y ESTADÍSTICA**"
-subtitle: " "
+title: "Módulo 0"  
 author: "dgonzalez"
-date: ""
-output:
-  html_document:
-    toc: no
-    toc_depth: 2
-    toc_float: yes
-    theme: flatly
+output: html_document
+css: style.css
 ---
 
 

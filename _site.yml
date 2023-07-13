@@ -22,8 +22,7 @@ navbar:
       href: integracion.html  
     - text: "Derivación"
       href: derivacion.html        
-
 output:
   html_document:
-    theme: flatly
-    css: style.css
+      css: style.css
+      theme: paper

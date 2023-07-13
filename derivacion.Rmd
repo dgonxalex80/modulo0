@@ -1,14 +1,9 @@
 ---
-title: <span style="color:#b0394a">**Derivación**</span> 
+title: "Derivación"  
 author: "dgonzalez"
-output:
-  html_document:
-    toc: no
-    toc_depth: 2
-    toc_float: yes
-    theme: flatly
+output: html_document
+css: style.css
 ---
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,comment = NA)
 
