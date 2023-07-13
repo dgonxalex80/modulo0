@@ -1,5 +1,5 @@
 ---
-title: "Función Exponencial" 
+title: "**Función Exponencial**" 
 author: "dgonzalez"
 output: html_document
 css: style.css

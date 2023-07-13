@@ -1,5 +1,5 @@
 ---
-title: "Técnicas de conteo"  
+title: "**Técnicas de conteo**"  
 author: "dgonzalez"
 output: html_document
 css: style.css
